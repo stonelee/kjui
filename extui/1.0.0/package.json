@@ -1,0 +1,10 @@
+{
+    "name": "extui",
+    "version": "1.0.0",
+    "root": "kjui",
+    "description": "extui",
+    "author": "Stone Lee <istonelee@gmail.com> (http://stonelee.info)",
+    "output": {
+        "all.css": ["./normalize.css","./extui.css"]
+    }
+}
